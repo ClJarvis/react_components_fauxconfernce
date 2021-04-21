@@ -1,8 +1,15 @@
 function Page() {
 	return (
-		<div>
-			<h2>Hello there</h2>
+	<Layout>
+		<div className='text-gray-600'>
+			<div className='m-6'>
+				<p>
+				Silicon Valley Code Camp is a fictional text filler. text text text.
+				
+				</p>
+			</div>
 		</div>
+	</Layout>
 	);
 }
 
